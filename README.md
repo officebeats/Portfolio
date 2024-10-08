@@ -31,7 +31,7 @@ Startup hustle with a strategic execution.
 
 ## Experience
 
-### Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span>
+### Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span><br>
 **Field Services 🛠️**
 
 <div class="grid-container">
@@ -49,7 +49,7 @@ Startup hustle with a strategic execution.
   </div>
 </div>
 
-### Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span>
+### Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span><br>
 **Healthcare 🏥 / Energy ⚡**
 
 <div class="grid-container">
@@ -65,7 +65,7 @@ Startup hustle with a strategic execution.
   </div>
 </div>
 
-### Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span>
+### Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span><br>
 **Consumer 🛍️ / Retail 🛒 / Mobile 📱**
 
 <div class="grid-container">
@@ -81,7 +81,7 @@ Startup hustle with a strategic execution.
   </div>
 </div>
 
-### Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span>
+### Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span><br>
 **Healthcare 🏥 / Gaming 🎮**
 
 <div class="grid-container">
@@ -97,7 +97,7 @@ Startup hustle with a strategic execution.
   </div>
 </div>
 
-### CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span>
+### CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span><br>
 **Retail 🛒 / IOT 🌐**
 
 <div class="grid-container">
@@ -113,7 +113,7 @@ Startup hustle with a strategic execution.
   </div>
 </div>
 
-### Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span>
+### Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span><br>
 **Healthcare 🏥 / Touchscreens 📱**
 
 <div class="grid-container">
