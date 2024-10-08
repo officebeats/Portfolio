@@ -49,9 +49,9 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<images/Route_Marketplace_Profile_Pins_and_Cards.png>" alt="Marketplace">
-      <img src="<images/Route_marketplace_profile_cards.png>" alt="Business Profile Cards">
-      <img src="<images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png>" alt="Expanded Profile View">
+      <img src="images/Route_Marketplace_Profile_Pins_and_Cards.png" alt="Marketplace"><br>
+      <img src="images/Route_marketplace_profile_cards.png" alt="Business Profile Cards"><br>
+      <img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png" alt="Expanded Profile View">
     </div>
   </div>
 
@@ -62,9 +62,9 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-BCG-product-image-1>" alt="BCG Product Image 1">
-      <img src="<URL-to-BCG-product-image-2>" alt="BCG Product Image 2">
-      <img src="<URL-to-BCG-product-image-3>" alt="BCG Product Image 3">
+      <img src="images/BCG-product-image-1.png" alt="BCG Product Image 1"><br> 
+      <img src="images/BCG-product-image-2.png" alt="BCG Product Image 2"><br> 
+      <img src="images/BCG-product-image-3.png" alt="BCG Product Image 3">
     </div>
     <div class="grid-item">
       <ul>
@@ -95,9 +95,9 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-Fetch-Rewards-product-image-1>" alt="Fetch Rewards Product Image 1">
-      <img src="<URL-to-Fetch-Rewards-product-image-2>" alt="Fetch Rewards Product Image 2">
-      <img src="<URL-to-Fetch-Rewards-product-image-3>" alt="Fetch Rewards Product Image 3">
+      <img src="images/Fetch-Rewards-product-image-1.png" alt="Fetch Rewards Product Image 1"><br>
+      <img src="images/Fetch-Rewards-product-image-2.png" alt="Fetch Rewards Product Image 2"><br>
+      <img src="images/Fetch-Rewards-product-image-3.png" alt="Fetch Rewards Product Image 3">
     </div>
   </div>
 
@@ -108,9 +108,9 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-Level-Ex-product-image-1>" alt="Level Ex Product Image 1">
-      <img src="<URL-to-Level-Ex-product-image-2>" alt="Level Ex Product Image 2">
-      <img src="<URL-to-Level-Ex-product-image-3>" alt="Level Ex Product Image 3">
+      <img src="images/Level-Ex-product-image-1.png" alt="Level Ex Product Image 1"><br>
+      <img src="images/Level-Ex-product-image-2.png" alt="Level Ex Product Image 2"><br>
+      <img src="images/Level-Ex-product-image-3.png" alt="Level Ex Product Image 3">
     </div>
     <div class="grid-item">
       <ul>
@@ -141,9 +141,9 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-CoolerX-product-image-1>" alt="CoolerX Product Image 1">
-      <img src="<URL-to-CoolerX-product-image-2>" alt="CoolerX Product Image 2">
-      <img src="<URL-to-CoolerX-product-image-3>" alt="CoolerX Product Image 3">
+      <img src="images/CoolerX-product-image-1.png" alt="CoolerX Product Image 1"><br>
+      <img src="images/CoolerX-product-image-2.png" alt="CoolerX Product Image 2"><br>
+      <img src="images/CoolerX-product-image-3.png" alt="CoolerX Product Image 3">
     </div>
   </div>
 
@@ -154,9 +154,9 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-Outcome-Health-product-image-1>" alt="Outcome Health Product Image 1">
-      <img src="<URL-to-Outcome-Health-product-image-2>" alt="Outcome Health Product Image 2">
-      <img src="<URL-to-Outcome-Health-product-image-3>" alt="Outcome Health Product Image 3">
+      <img src="images/Outcome-Health-product-image-1.png" alt="Outcome Health Product Image 1"><br>
+      <img src="images/Outcome-Health-product-image-2.png" alt="Outcome Health Product Image 2"><br>
+      <img src="images/Outcome-Health-product-image-3.png" alt="Outcome Health Product Image 3">
     </div>
     <div class="grid-item">
       <ul>
