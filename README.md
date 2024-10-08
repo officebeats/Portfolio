@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-
 <head>
   <title>Ernesto Rodriguez - Portfolio</title>
   <style>
@@ -36,8 +33,8 @@
 
   <h2>Experience</h2>
 
-  ### Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span><br>
-  **Field Services 🛠️**
+  <h3>Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span><br>
+    Field Services 🛠️</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -60,8 +57,8 @@
 
   <br><br>
 
-  ### Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span><br>
-  **Healthcare 🏥 / Energy ⚡**
+  <h3>Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span><br>
+    Healthcare 🏥 / Energy ⚡</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -83,8 +80,8 @@
 
   <br><br>
 
-  ### Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span><br>
-  **Consumer 🛍️ / Retail 🛒 / Mobile 📱**
+  <h3>Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span><br>
+    Consumer 🛍️ / Retail 🛒 / Mobile 📱</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -106,8 +103,8 @@
 
   <br><br>
 
-  ### Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span><br>
-  **Healthcare 🏥 / Gaming 🎮**
+  <h3>Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span><br>
+    Healthcare 🏥 / Gaming 🎮</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -129,8 +126,8 @@
 
   <br><br>
 
-  ### CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span><br>
-  **Retail 🛒 / IOT 🌐**
+  <h3>CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span><br>
+    Retail 🛒 / IOT 🌐</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -152,8 +149,8 @@
 
   <br><br>
 
-  ### Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span><br>
-  **Healthcare 🏥 / Touchscreens 📱**
+  <h3>Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span><br>
+    Healthcare 🏥 / Touchscreens 📱</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -172,5 +169,3 @@
   </div>
 
 </body>
-
-</html
