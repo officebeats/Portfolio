@@ -2,4 +2,6 @@ title: Ernesto Rodriguez
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-so-simple
+#theme: jekyll-theme-so-simple
+
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
