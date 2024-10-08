@@ -5,13 +5,16 @@
 **Innovative Product Management Leader with 10+ years in launching & scaling software & hardware products.**  
 Expert in user-centered design, agile methodologies, & data-driven strategy.  
 Startup hustle with a strategic execution.
+
 </div>
 
 ---
 
-## Experience
+<div align="center">
 
+  ## Experience
 
+</div>
 
 ### Route | Head Of Product <span style="float:right;">Mar 2024 - Oct 2024</span>
 **Field Services 🛠️**
