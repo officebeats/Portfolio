@@ -50,7 +50,6 @@
     </div>
     <div class="grid-item">
       <img src="images/Route_Marketplace_Profile_Pins_and_Cards.png" alt="Marketplace"><br>
-      <img src="images/Route_marketplace_profile_cards.png" alt="Business Profile Cards"><br>
       <img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png" alt="Expanded Profile View">
     </div>
   </div>
