@@ -6,6 +6,7 @@
 Expert in user-centered design, agile methodologies, & data-driven strategy.  
 Startup hustle with a strategic execution.
 </div>
+
 ---
 
 ## Experience
