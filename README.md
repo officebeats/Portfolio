@@ -11,22 +11,38 @@
       max-width: 100%;
       height: auto;
     }
+
+    .intro-container {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      /* 2/3 for left, 1/3 for right */
+      gap: 20px;
+    }
   </style>
 </head>
 
 <body>
 
-  <div align="center">
+  <div class="intro-container">
+    <div>
 
-    <h1>Ernesto Rodriguez</h1>
+      <h1>Ernesto Rodriguez</h1>
 
-    <p>
-      <strong>Innovative Product Management Leader with 10+ years in launching & scaling software & hardware
-        products.</strong><br>
-      Expert in user-centered design, agile methodologies, & data-driven strategy.<br>
-      Startup hustle with a strategic execution.
-    </p>
+      <p>
+        <strong>Innovative Product Management Leader with 10+ years in launching & scaling software & hardware
+          products.</strong><br>
+        Expert in user-centered design, agile methodologies, & data-driven strategy.<br>
+        Startup hustle with a strategic execution.
+      </p>
 
+    </div>
+    <div>
+      <ul>
+        <li>Location: Chicago, IL 🗺️</li>
+        <li>Email: Ernesto@ProductMG.com 📧</li>
+        <li>Linkedin: /in/ProductMG 🔗</li>
+      </ul>
+    </div>
   </div>
 
   <hr>
@@ -49,8 +65,8 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-Route-product-image-1>" alt="Route Product Image 1">
-      <img src="<URL-to-Route-product-image-2>" alt="Route Product Image 2">
+      <img src="<URL-to-Route-product-image-1>" alt="Route Product Image 1"><br>
+      <img src="<URL-to-Route-product-image-2>" alt="Route Product Image 2"><br>
       <img src="<URL-to-Route-product-image-3>" alt="Route Product Image 3">
     </div>
   </div>
@@ -62,8 +78,8 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-BCG-product-image-1>" alt="BCG Product Image 1">
-      <img src="<URL-to-BCG-product-image-2>" alt="BCG Product Image 2">
+      <img src="<URL-to-BCG-product-image-1>" alt="BCG Product Image 1"><br>
+      <img src="<URL-to-BCG-product-image-2>" alt="BCG Product Image 2"><br>
       <img src="<URL-to-BCG-product-image-3>" alt="BCG Product Image 3">
     </div>
     <div class="grid-item">
@@ -95,8 +111,8 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-Fetch-Rewards-product-image-1>" alt="Fetch Rewards Product Image 1">
-      <img src="<URL-to-Fetch-Rewards-product-image-2>" alt="Fetch Rewards Product Image 2">
+      <img src="<URL-to-Fetch-Rewards-product-image-1>" alt="Fetch Rewards Product Image 1"><br>
+      <img src="<URL-to-Fetch-Rewards-product-image-2>" alt="Fetch Rewards Product Image 2"><br>
       <img src="<URL-to-Fetch-Rewards-product-image-3>" alt="Fetch Rewards Product Image 3">
     </div>
   </div>
@@ -108,8 +124,8 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-Level-Ex-product-image-1>" alt="Level Ex Product Image 1">
-      <img src="<URL-to-Level-Ex-product-image-2>" alt="Level Ex Product Image 2">
+      <img src="<URL-to-Level-Ex-product-image-1>" alt="Level Ex Product Image 1"><br>
+      <img src="<URL-to-Level-Ex-product-image-2>" alt="Level Ex Product Image 2"><br>
       <img src="<URL-to-Level-Ex-product-image-3>" alt="Level Ex Product Image 3">
     </div>
     <div class="grid-item">
@@ -141,8 +157,8 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-CoolerX-product-image-1>" alt="CoolerX Product Image 1">
-      <img src="<URL-to-CoolerX-product-image-2>" alt="CoolerX Product Image 2">
+      <img src="<URL-to-CoolerX-product-image-1>" alt="CoolerX Product Image 1"><br>
+      <img src="<URL-to-CoolerX-product-image-2>" alt="CoolerX Product Image 2"><br>
       <img src="<URL-to-CoolerX-product-image-3>" alt="CoolerX Product Image 3">
     </div>
   </div>
@@ -154,18 +170,5 @@
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="<URL-to-Outcome-Health-product-image-1>" alt="Outcome Health Product Image 1">
-      <img src="<URL-to-Outcome-Health-product-image-2>" alt="Outcome Health Product Image 2">
-      <img src="<URL-to-Outcome-Health-product-image-3>" alt="Outcome Health Product Image 3">
-    </div>
-    <div class="grid-item">
-      <ul>
-        <li>Led strategy & delivery for two touchscreen products, achieving 100% growth in user retention, revenue, and
-          business expansion annually, with two products accounting for 60% of total company revenue.</li>
-        <li>Facilitated seamless transition from offshore to in-house development teams, resulting in improved product
-          quality & team synergy.</li>
-      </ul>
-    </div>
-  </div>
-
-</body>
+      <img src="<URL-to-Outcome-Health-product-image-1>" alt="Outcome Health Product Image 1"><br>
+      <img src="<URL-to-Outcome-Health-product-image-2>" alt="Outcome Health Product Image 2"><br>
