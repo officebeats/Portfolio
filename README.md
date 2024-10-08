@@ -13,7 +13,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### Route | Head Of Product <span style="float:right;">Mar 2024 - Oct 2024</span>
-**(Field Services)**
+**Field Services 🛠️**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -35,7 +35,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### Boston Consulting Group | Senior Product Manager <span style="float:right;">Apr 2022 - Mar 2024</span>
-**(Healthcare / Energy)**
+**Healthcare 🏥 / Energy ⚡**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -55,7 +55,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### Fetch Rewards | Senior Product Lead <span style="float:right;">Apr 2021 - Apr 2022</span>
-**(Consumer / Retail / Mobile)**
+**Consumer 🛍️ / Retail 🛒 / Mobile 📱**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -75,7 +75,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### Level Ex | Senior Product Manager <span style="float:right;">Apr 2020 - Apr 2021</span>
-**(Healthcare / Gaming)**
+**Healthcare 🏥 / Gaming 🎮**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -95,7 +95,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### CoolerX | Senior Product Owner <span style="float:right;">Jan 2019 - Mar 2020</span>
-**(Retail / IOT)**
+**Retail 🛒 / IOT 🌐**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -115,7 +115,7 @@ Startup hustle with a strategic execution.
 </div>
 
 ### Outcome Health | Technical Product Manager <span style="float:right;">Apr 2013 - Oct 2017</span>
-**(Healthcare / Touchscreens)**
+**Healthcare 🏥 / Touchscreens 📱**
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; min-width: 300px;">
@@ -127,8 +127,5 @@ Startup hustle with a strategic execution.
   </div>
   <div style="flex: 50%; min-width: 300px;">
 
-- Led strategy & delivery for two touchscreen products, achieving 100% growth in user retention, revenue, and business expansion annually, with two products accounting for 60% of total company revenue.
+- Led strategy & delivery for two touchscreen products, achieving 100% growth in user retention, revenue, and business expansion annually, with two products accounting for 60% of total company
 - Facilitated seamless transition from offshore to in-house development teams, resulting in improved product quality & team synergy.
-
-  </div>
-</div>
