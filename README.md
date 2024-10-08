@@ -2,7 +2,7 @@
 
 **Innovative Product Management Leader with 10+ years in launching & scaling software & hardware products.**
 - Expert in user-centered design, agile methodologies, & data-driven strategy.
-- *Startup hustle with a strategic execution.
+- Startup hustle with a strategic execution.
 
 ## Experience
 
