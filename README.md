@@ -49,9 +49,9 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="<URL-to-Route-product-image-1>" alt="Route Product Image 1">
-      <img src="<URL-to-Route-product-image-2>" alt="Route Product Image 2">
-      <img src="<URL-to-Route-product-image-3>" alt="Route Product Image 3">
+      <img src="<images/Route_Marketplace_Profile_Pins_and_Cards.png>" alt="Marketplace">
+      <img src="<images/Route_marketplace_profile_cards.png>" alt="Business Profile Cards">
+      <img src="<images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png>" alt="Expanded Profile View">
     </div>
   </div>
 
