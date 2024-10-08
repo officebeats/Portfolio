@@ -8,8 +8,48 @@
     }
 
     .grid-item img {
-      max-width: 100%;
+      max-width: 50%; /* Half the original size */
       height: auto;
+      cursor: pointer;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .grid-item img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Lightbox overlay */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+    }
+
+    .lightbox:target {
+      display: flex;
+    }
+
+    /* Close button */
+    .close {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      color: white;
+      font-size: 30px;
+      font-weight: bold;
+      text-decoration: none;
     }
   </style>
 </head>
@@ -17,24 +57,20 @@
 <body>
 
   <div align="center">
-
     <h1>Ernesto Rodriguez</h1>
-
     <p>
       <strong>Innovative Product Management Leader with 10+ years in launching & scaling software & hardware
         products.</strong><br>
       Expert in user-centered design, agile methodologies, & data-driven strategy.<br>
       Startup hustle with a strategic execution.
     </p>
-
   </div>
 
   <hr>
 
   <h2>Experience</h2>
 
-  <h3>Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span><br>
-    Field Services 🛠️</h3>
+  <h3>Route | Head Of Product <span style="float: right;">Mar 2024 - Oct 2024</span><br> Field Services 🛠️</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -49,21 +85,31 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="images/Route_Marketplace_Profile_Pins_and_Cards.png" alt="Marketplace"><br>
-      <img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png" alt="Expanded Profile View">
+      <a href="#img1"><img src="images/Route_Marketplace_Profile_Pins_and_Cards.png"></a>
+      <a href="#img2"><img src="images/Proposal_Tool_new.png"></a>
+      <a href="#img2"><img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png"></a>
     </div>
+  </div>
+
+  <div id="img1" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Route_Marketplace_Profile_Pins_and_Cards.png">
+  </div>
+
+  <div id="img2" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png">
   </div>
 
   <br><br>
 
-  <h3>Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span><br>
-    Healthcare 🏥 / Energy ⚡</h3>
+  <h3>Boston Consulting Group | Senior Product Manager <span style="float: right;">Apr 2022 - Mar 2024</span><br> Healthcare 🏥 / Energy ⚡</h3>
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="images/BCG-product-image-1.png" alt="BCG Product Image 1"><br> 
-      <img src="images/BCG-product-image-2.png" alt="BCG Product Image 2"><br> 
-      <img src="images/BCG-product-image-3.png" alt="BCG Product Image 3">
+      <a href="#img3"><img src="images/BCG-product-image-1.png"></a>
+      <a href="#img4"><img src="images/BCG-product-image-2.png"></a>
+      <a href="#img5"><img src="images/BCG-product-image-3.png"></a>
     </div>
     <div class="grid-item">
       <ul>
@@ -77,10 +123,24 @@
     </div>
   </div>
 
+  <div id="img3" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/BCG-product-image-1.png">
+  </div>
+
+  <div id="img4" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/BCG-product-image-2.png">
+  </div>
+
+  <div id="img5" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/BCG-product-image-3.png">
+  </div>
+
   <br><br>
 
-  <h3>Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span><br>
-    Consumer 🛍️ / Retail 🛒 / Mobile 📱</h3>
+  <h3>Fetch Rewards | Senior Product Lead <span style="float: right;">Apr 2021 - Apr 2022</span><br> Consumer 🛍️ / Retail 🛒 / Mobile 📱</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -94,22 +154,36 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="images/Fetch-Rewards-product-image-1.png" alt="Fetch Rewards Product Image 1"><br>
-      <img src="images/Fetch-Rewards-product-image-2.png" alt="Fetch Rewards Product Image 2"><br>
-      <img src="images/Fetch-Rewards-product-image-3.png" alt="Fetch Rewards Product Image 3">
+      <a href="#img6"><img src="images/Fetch-Rewards-product-image-1.png"></a>
+      <a href="#img7"><img src="images/Fetch-Rewards-product-image-2.png"></a>
+      <a href="#img8"><img src="images/Fetch-Rewards-product-image-3.png"></a>
     </div>
+  </div>
+
+  <div id="img6" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Fetch-Rewards-product-image-1.png">
+  </div>
+
+  <div id="img7" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Fetch-Rewards-product-image-2.png">
+  </div>
+
+  <div id="img8" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Fetch-Rewards-product-image-3.png">
   </div>
 
   <br><br>
 
-  <h3>Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span><br>
-    Healthcare 🏥 / Gaming 🎮</h3>
+  <h3>Level Ex | Senior Product Manager <span style="float: right;">Apr 2020 - Apr 2021</span><br> Healthcare 🏥 / Gaming 🎮</h3>
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="images/Level-Ex-product-image-1.png" alt="Level Ex Product Image 1"><br>
-      <img src="images/Level-Ex-product-image-2.png" alt="Level Ex Product Image 2"><br>
-      <img src="images/Level-Ex-product-image-3.png" alt="Level Ex Product Image 3">
+      <a href="#img9"><img src="images/Level-Ex-product-image-1.png"></a>
+      <a href="#img10"><img src="images/Level-Ex-product-image-2.png"></a>
+      <a href="#img11"><img src="images/Level-Ex-product-image-3.png"></a>
     </div>
     <div class="grid-item">
       <ul>
@@ -123,10 +197,24 @@
     </div>
   </div>
 
+  <div id="img9" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Level-Ex-product-image-1.png">
+  </div>
+
+  <div id="img10" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Level-Ex-product-image-2.png">
+  </div>
+
+  <div id="img11" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Level-Ex-product-image-3.png">
+  </div>
+
   <br><br>
 
-  <h3>CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span><br>
-    Retail 🛒 / IOT 🌐</h3>
+  <h3>CoolerX | Senior Product Owner <span style="float: right;">Jan 2019 - Mar 2020</span><br> Retail 🛒 / IOT 🌐</h3>
 
   <div class="grid-container">
     <div class="grid-item">
@@ -140,22 +228,30 @@
       </ul>
     </div>
     <div class="grid-item">
-      <img src="images/CoolerX-product-image-1.png" alt="CoolerX Product Image 1"><br>
-      <img src="images/CoolerX-product-image-2.png" alt="CoolerX Product Image 2"><br>
-      <img src="images/CoolerX-product-image-3.png" alt="CoolerX Product Image 3">
+      <a href="#img12"><img src="images/CoolerX-product-image-1.png"></a>
+      <a href="#img13"><img src="images/CoolerX-product-image-2.png"></a>
     </div>
+  </div>
+
+  <div id="img12" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/CoolerX-product-image-1.png">
+  </div>
+
+  <div id="img13" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/CoolerX-product-image-2.png">
   </div>
 
   <br><br>
 
-  <h3>Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span><br>
-    Healthcare 🏥 / Touchscreens 📱</h3>
+  <h3>Outcome Health | Technical Product Manager <span style="float: right;">Apr 2013 - Oct 2017</span><br> Healthcare 🏥 / Touchscreens 📱</h3>
 
   <div class="grid-container">
     <div class="grid-item">
-      <img src="images/Outcome-Health-product-image-1.png" alt="Outcome Health Product Image 1"><br>
-      <img src="images/Outcome-Health-product-image-2.png" alt="Outcome Health Product Image 2"><br>
-      <img src="images/Outcome-Health-product-image-3.png" alt="Outcome Health Product Image 3">
+      <a href="#img14"><img src="images/Outcome-Health-product-image-1.png"></a>
+      <a href="#img15"><img src="images/Outcome-Health-product-image-2.png"></a>
+      <a href="#img16"><img src="images/Outcome-Health-product-image-3.png"></a>
     </div>
     <div class="grid-item">
       <ul>
@@ -165,6 +261,21 @@
           quality & team synergy.</li>
       </ul>
     </div>
+  </div>
+
+  <div id="img14" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Outcome-Health-product-image-1.png">
+  </div>
+
+  <div id="img15" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Outcome-Health-product-image-2.png">
+  </div>
+
+  <div id="img16" class="lightbox">
+    <a href="#" class="close">&times;</a>
+    <img src="images/Outcome-Health-product-image-3.png">
   </div>
 
 </body>
