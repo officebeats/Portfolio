@@ -8,7 +8,7 @@
     }
 
     .grid-item img {
-      max-width: 100%;
+      max-width: 50%; /* Half the original size */
       height: auto;
       cursor: pointer;
       transition: transform 0.3s ease-in-out;
