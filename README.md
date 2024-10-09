@@ -87,7 +87,9 @@
     <div class="grid-item">
       <a href="#img1"><img src="images/Route_Marketplace_Profile_Pins_and_Cards.png"></a>
       <a href="#img2"><img src="images/Proposal_Tool_new.png"></a>
+      <a href="#img2"><img src="images/Route_Marketplace_Hover State_Pins.png"></a>
       <a href="#img2"><img src="images/Route_Marketplace_Profile_Pins_and_Cards_expanded.png"></a>
+
     </div>
   </div>
 
